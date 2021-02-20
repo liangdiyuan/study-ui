@@ -1,4 +1,4 @@
-# study-ui
+# study-ui 是一个学习如何搭建组件库的学习项目
 
 ## Project setup
 ```
